@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574491401 source:e:\programing\c programe\sky\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
