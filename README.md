@@ -1,4 +1,4 @@
-![ROX by Rollout](https://1ko9923xosh2dsbjsxpwqp45-wpengine.netdna-ssl.com/wp-content/themes/rollout/images/rollout_white_logo1.png)
+ddd![ROX by Rollout](https://1ko9923xosh2dsbjsxpwqp45-wpengine.netdna-ssl.com/wp-content/themes/rollout/images/rollout_white_logo1.png)
 
 [![Integration status](https://app.rollout.io/badges/5de4eee6676b362cfb74fa38)](https://app.rollout.io/app/5de4ee4045bc8a657df95d46/settings/info)
 
