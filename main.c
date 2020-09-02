@@ -9,6 +9,9 @@ int main() {
     ftxtfile = fopen("E:\c programe\sky","sky");
 
 
+    printf("Isura");
+
+
     for (int i = 0; i <=100 ; ++i) {
         fprintf(ftxtfile,"%d\n",i);
         printf("%d\n",i);
