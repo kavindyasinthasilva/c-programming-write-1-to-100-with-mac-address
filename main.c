@@ -6,7 +6,10 @@ int main() {
     clock_t begin = clock();
 
     FILE *ftxtfile;
-    ftxtfile = fopen("E:\programing\c programe\sky","sky");
+    ftxtfile = fopen("E:\c programe\sky","sky");
+
+
+    printf("Isura");
 
 
     for (int i = 0; i <=100 ; ++i) {
